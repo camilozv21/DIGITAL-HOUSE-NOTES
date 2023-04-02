@@ -1,0 +1,9 @@
+The movie identified with the id number: ae5edf36-a073-4aeb-8f7b-62774362c5fb has this awards: Gramyss, Best Movie. Its price is: 50000 $
+The movie identified with the id number: ae7c0ee7-03ea-4e4a-b31b-07dfd7771e85 has this awards: Best_Movie, Best Movie2023. Its price is: 100000 $
+The movie identified with the id number: daa6b7db-197c-4114-8827-8c089e942baa has this awards: worst movie ever made. Its price is: 2000 $
+The movie identified with the id number: b1b01676-0a9f-4466-8ce3-cb3d479332a4 has this awards: Gramyss, Best Movie. Its price is: 50000 $
+The movie identified with the id number: eca47cc9-509b-4a2a-914f-e0077d140c83 has this awards: Best_Movie, Best Movie2023. Its price is: 100000 $
+The movie identified with the id number: e75fe506-2d33-43c6-be3b-7d58fd84be10 has this awards: worst movie ever made. Its price is: 2000 $
+The movie identified with the id number: 912d614b-e48a-4e1c-8c31-0be9894d2801 has this awards: Gramyss, Best Movie. Its price is: 50000 $
+The movie identified with the id number: 2b3f2214-60c1-433f-8f4a-e4a1034241d2 has this awards: Best_Movie, Best Movie2023. Its price is: 100000 $
+The movie identified with the id number: 2e95aba4-5fea-4733-96dc-c2bf7e999709 has this awards: worst movie ever made. Its price is: 2000 $

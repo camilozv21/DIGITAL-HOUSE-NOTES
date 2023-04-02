@@ -1,0 +1,3 @@
+Programming is the process of creating computer software, applications, and systems using various programming languages such as Java, Python, C++, and many more. It involves writing code that tells the computer what to do and how to do it.
+
+In programming, developers use different tools such as Integrated Development Environments (IDEs), code editors, and version control systems to create and manage their projects. These tools make it easier to write, test, and debug code, as well as collaborate with other developers.
