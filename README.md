@@ -48,4 +48,4 @@ Hola soy Marcos Neuenschwander Viel, tengo 20 años y vivo en Buenos Aires. Esto
 
 <h3>Posibles Logos</h3>
 
-<a href="https://drive.google.com/drive/folders/12BCJ7tkk9900ZA0USAmYkKRyxLPAbixC?usp=sharing">Drive de imagenes</a>
+<a href="https://drive.google.com/drive/folders/12BCJ7tkk9900ZA0USAmYkKRyxLPAbixC?usp=sharing">Drive con el contenido de los logos</a>
