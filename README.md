@@ -32,3 +32,20 @@ Hola soy Marcos Neuenschwander Viel, tengo 20 años y vivo en Buenos Aires. Esto
 * puntos de venta
     <br>
     https://redragon.es/stores/
+
+<h3>Entregable opcional</h3>
+---
+<h3>Posibles tipografías</h3>
+
+* Raleway
+* Roboto
+
+<h3>Posibles Paletas de colores</h3>
+
+* #0F4C81, #9BB7D4, #E6F2FF
+* #003B6F, #00A3E0, #FFFFFF
+* #1F3C88, #F1F5F8, #E5E5E5
+
+<h3>Posibles Logos</h3>
+
+<a href="https://drive.google.com/drive/folders/12BCJ7tkk9900ZA0USAmYkKRyxLPAbixC?usp=sharing">Drive de imagenes</a>
