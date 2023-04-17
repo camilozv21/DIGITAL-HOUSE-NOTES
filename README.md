@@ -15,14 +15,20 @@ Hola soy Marcos Neuenschwander Viel, tengo 20 años y vivo en Buenos Aires. Esto
 <h2>Fuentes de inspitación</h2>
 
 * -------Estética del sitio web minimalista--------
+    <br>
     https://www.logitech.com/es-roam   
 * -------Idea que se scrolee una única parte de la página---
+    <br>
     https://www.lemon.me/en
 * -------Dinamismo en el logo de logitech------
+    <br>
     https://www.logitech.com/es-roam
 * -------QR que dirige a redes sociales foter-----------
+    <br>
     https://www.lemon.me/en
 * -------cotizar con un asesor--------------------
+    <br>
     https://www.masterspc.com.co/contacto
 * -------puntos de venta----------------------------
+    <br>
     https://redragon.es/stores/
